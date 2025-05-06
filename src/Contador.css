@@ -1,0 +1,44 @@
+.contenido {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 4px #ccc;
+    background-color: #edebeb;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+}
+
+.bloque {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    gap: 8px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 0 4px #ccc;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    width: 60%;
+    margin: auto;
+}
+
+button {
+    width: 140px;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    background-color: rgb(92, 209, 209);
+}
+
+input {
+    padding: 8px;
+    width:50%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    
+}
